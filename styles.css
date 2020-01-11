@@ -110,6 +110,11 @@ and (-webkit-min-device-pixel-ratio: 2) {
         height: 120px;
         font-size: 4rem;
     }
+
+    .error {
+        margin-top: 5vh;
+        font-size: 5em;
+    }
 }
 
 /* ----------- iPhone 6+, 7+ and 8+ ----------- */
@@ -129,5 +134,10 @@ and (max-device-width: 736px) {
     button {
         height: 120px;
         font-size: 4rem;
+    }
+
+    .error {
+        margin-top: 5vh;
+        font-size: 5em;
     }
 }
